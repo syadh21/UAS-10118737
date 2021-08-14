@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "988653984942",
+    "project_id": "uas-rifqi-10118737",
+    "storage_bucket": "uas-rifqi-10118737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988653984942:android:e97d844256941f975b613f",
+        "android_client_info": {
+          "package_name": "com.example.tugas_uas_10118737"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988653984942-p5g11ognfkpsaurgjpom2l5t97u6rbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_l1-p9dLZlbqteVoPXl3cDosokJTe9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988653984942-p5g11ognfkpsaurgjpom2l5t97u6rbcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988653984942:android:f782335fbe2e55cb5b613f",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_10118737"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988653984942-p5g11ognfkpsaurgjpom2l5t97u6rbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_l1-p9dLZlbqteVoPXl3cDosokJTe9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988653984942-p5g11ognfkpsaurgjpom2l5t97u6rbcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
